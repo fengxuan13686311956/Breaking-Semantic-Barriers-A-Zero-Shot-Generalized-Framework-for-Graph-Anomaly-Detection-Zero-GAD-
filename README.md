@@ -1,3 +1,6 @@
+## Breaking Semantic Barriers: A Zero-Shot Generalized Framework for Graph Anomaly Detection
+## MM(2025)
+![框架图](image.png)
 ## Get Started
 To run the code, the following packages are required to be installed:
 
